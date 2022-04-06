@@ -15,6 +15,13 @@ $(document).ready(function () {
     centerMode: true,
     centerPadding: '60px',
     slidesToShow: 3,
+    speed: 750,
+    easing: 'easeOutQuad',
+    infinite: false,
+    initialSlide: 1,
+    draggable: false,
+    variableWidth: true,
+
     responsive: [
       {
         breakpoint: 768,
