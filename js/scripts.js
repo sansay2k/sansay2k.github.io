@@ -39,7 +39,8 @@ $(document).ready(function () {
           arrows: false,
           centerMode: true,
           centerPadding: '40px',
-          slidesToShow: 1
+          slidesToShow: 1,
+          initialSlide: 0
         }
       }
     ]
