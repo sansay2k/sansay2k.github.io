@@ -271,7 +271,7 @@ body.locked {
 
 .slider .slick-slide {
   opacity: 0.5;
-  margin: 0 20px;
+  margin: 0 25px;
   transition: 0.5s all;
 }
 .slider .slick-active {
