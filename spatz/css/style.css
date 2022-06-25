@@ -1395,7 +1395,7 @@ hr {
   }
 
   .burger.active-burger:before {
-    background: "white";
+    background: white;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -1406,7 +1406,7 @@ hr {
   }
 
   .burger.active-burger:after {
-    background: "white";
+    background: white;
     -webkit-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
     transform: rotate(-45deg);
@@ -1428,7 +1428,7 @@ hr {
     position: absolute;
     height: 2px;
     width: 100%;
-    background: "black";
+    background: black;
     -webkit-transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.3s all;
     -o-transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.3s all;
     transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.3s all;
@@ -1447,7 +1447,7 @@ hr {
     top: 9px;
     right: 0;
     width: 100%;
-    background: "black";
+    background: black;
     height: 2px;
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
